@@ -1,4 +1,4 @@
-Author : sanu kumar;;
+: sanu kumar;;
 
 
 
