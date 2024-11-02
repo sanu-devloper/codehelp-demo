@@ -1,4 +1,4 @@
-AUTHOR:-Sanu kuma
+AUTHOR:Sanu kuma
 
 
 
