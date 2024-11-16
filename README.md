@@ -1,4 +1,4 @@
-AUTHOR: Sanu kumar;
+THOR: Sanu kumar;
 
 
 
