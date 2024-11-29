@@ -1,1 +1,1 @@
-ATHOR: Sanu kumar;
+THOR: Sanu kumar;
